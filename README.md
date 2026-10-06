@@ -12,4 +12,4 @@ Hiện tại tôi đang là sinh viên ngành Công nghệ Thông tin của tư�
 * **Ngôn ngữ:** Trong quá trình học tập tôi đã sử dụng qua các loại ngôn ngữ C++, C#, PHP, Python, JavaScript.
 * **Framework/Thư viện:** .NET WinForms, OpenCV, YOLO (v3 & v11).
 * **Cơ sở dữ liệu:** MySQL, MS SQL server.
-* **Công cụ phát triển:** VS Code, DBeaver, Visual Studio 2022, SQL server management.
+* **Công cụ phát triển:** VS Code, Visual Studio 2022, SQL server management.
